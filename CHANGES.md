@@ -8,3 +8,6 @@
 # November 12th 2024
 ## Update 1
 - Added a word counter game
+## Update 2
+- Added a multiplication table generator
+- Fixed README.MD link to this file
