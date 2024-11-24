@@ -394,7 +394,8 @@ int main(){
         {Temperature_Converter, "Temperature converter app", "Convert Fahrenheit into Celsius and vice versa"},
         {word_counter, "Word counter app", "Count words in a sentence!"},
         {Multiplication_Table_Game, "Multiplication table app", "Create a multiplication table!"},
-        {odd_or_even_game, "Odd Or Even app", "Check if a number is odd or even!"}
+        {odd_or_even_game, "Odd Or Even app", "Check if a number is odd or even!"},
+        {SimpleCalculator, "Simple Calculator", "Does everything a calculator must do"}
     };
     cout << "Enter in the game you want to play!\n";
     int i = 0;
