@@ -14,3 +14,5 @@
 ## Update 3
 - **BIG PROJECT:** Added a basic atm simulator
 - Made some changes to the README.md file
+## Update 4 **BIG!!!!**
+- Added a Full_Package.exe file, so all of the games are combined into one single exe file, that you can execute within it.
