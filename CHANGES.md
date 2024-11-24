@@ -11,3 +11,6 @@
 ## Update 2
 - Added a multiplication table generator
 - Fixed README.MD link to this file
+## Update 3
+- **BIG PROJECT:** Added a basic atm simulator
+- Made some changes to the README.md file
