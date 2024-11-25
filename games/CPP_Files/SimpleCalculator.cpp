@@ -11,9 +11,9 @@ struct MathElements {
 };
 
 struct endResult {
-    double Number1;
+    long double Number1;
     char Symbol;
-    double Number2;
+    long double Number2;
 };
 
 class math{
