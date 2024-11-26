@@ -63,6 +63,7 @@ class math{
 int main()
 {
     math Math;
+    cout << "\n";
     while(true){
         cout << "Type in a number following one of these symbols along with a second number after it (Type in any character to exit)\n" << endl;
 
@@ -70,8 +71,6 @@ int main()
         for (const auto&item : Math.returnSigns()){
             cout << item.Symbol << " : " << item.description << endl;
         }
-
-        cout << "\n";
 
         cout << "____" << " _ " << "____\n" << endl;
         
